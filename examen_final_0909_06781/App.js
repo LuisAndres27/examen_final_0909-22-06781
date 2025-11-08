@@ -79,7 +79,7 @@ export default function App() {
       <View style={styles.header}>
         <Text style={styles.title}>Galería Picsum</Text>
         <Text style={styles.subtitle}>
-          Imágenes aleatorias desde la API pública
+          Imágenes aleatorias desde la API
         </Text>
       </View>
 
